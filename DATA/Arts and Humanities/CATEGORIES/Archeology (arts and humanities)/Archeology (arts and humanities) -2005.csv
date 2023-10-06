@@ -1,0 +1,89 @@
+Rank,Country,Region,Documents,Citable documents,Citations,Self-citations,Citations per document,H index
+1,United States,Northern America,557,537,22539,10382,40.46,205
+2,United Kingdom,Western Europe,437,423,16862,6249,38.59,194
+3,Germany,Western Europe,225,222,5464,1329,24.28,142
+4,France,Western Europe,220,217,6840,1767,31.09,132
+5,Italy,Western Europe,142,142,2034,814,14.32,97
+6,Canada,Northern America,109,105,3814,976,34.99,117
+7,Australia,Pacific Region,98,95,4363,1128,44.52,108
+8,Spain,Western Europe,79,78,2809,1139,35.56,98
+9,Netherlands,Western Europe,56,54,2394,398,42.75,103
+10,Switzerland,Western Europe,48,47,2445,639,50.94,105
+11,Sweden,Western Europe,47,47,1579,281,33.6,100
+12,Belgium,Western Europe,45,45,1034,206,22.98,74
+13,Norway,Western Europe,41,40,2236,645,54.54,106
+14,Israel,Middle East,38,37,1105,412,29.08,81
+15,Russian Federation,Eastern Europe,33,32,1002,281,30.36,78
+16,Czech Republic,Eastern Europe,32,31,231,142,7.22,46
+17,Austria,Western Europe,32,31,850,214,26.56,53
+18,Denmark,Western Europe,26,26,1162,213,44.69,92
+19,China,Asiatic Region,26,26,1578,961,60.69,101
+20,Greece,Western Europe,26,26,347,92,13.35,61
+21,Taiwan,Asiatic Region,24,24,529,49,22.04,30
+22,South Africa,Africa,24,22,924,402,38.5,87
+23,Poland,Eastern Europe,23,23,593,216,25.78,56
+24,Slovenia,Eastern Europe,18,16,205,88,11.39,25
+25,Turkey,Middle East,18,18,167,52,9.28,40
+26,Argentina,Latin America,17,17,325,192,19.12,48
+27,Ireland,Western Europe,17,17,1195,57,70.29,51
+28,New Zealand,Pacific Region,16,16,483,238,30.19,69
+29,Japan,Asiatic Region,16,16,648,142,40.5,63
+30,Portugal,Western Europe,9,9,424,130,47.11,54
+31,Finland,Western Europe,9,9,292,52,32.44,64
+32,Croatia,Eastern Europe,9,9,43,21,4.78,20
+33,Mexico,Latin America,9,9,223,105,24.78,42
+34,Iran,Middle East,8,8,70,28,8.75,23
+35,Brazil,Latin America,8,8,293,149,36.63,45
+36,Iceland,Western Europe,7,7,858,51,122.57,51
+37,Egypt,Africa/Middle East,6,6,90,19,15.0,24
+38,Bulgaria,Eastern Europe,5,5,211,33,42.2,29
+39,Nigeria,Africa,4,4,43,5,10.75,10
+40,Chile,Latin America,4,4,83,55,20.75,39
+41,Paraguay,Latin America,4,4,70,2,17.5,4
+42,Thailand,Asiatic Region,4,4,293,55,73.25,19
+43,Romania,Eastern Europe,3,3,55,6,18.33,35
+44,Uzbekistan,Asiatic Region,3,3,10,2,3.33,8
+45,Uruguay,Latin America,3,3,2,0,0.67,12
+46,Lithuania,Eastern Europe,3,3,30,10,10.0,24
+47,Colombia,Latin America,3,3,58,12,19.33,22
+48,Georgia,Eastern Europe,3,3,5,0,1.67,21
+49,Singapore,Asiatic Region,2,2,11,1,5.5,33
+50,Luxembourg,Western Europe,2,2,5,0,2.5,7
+51,Morocco,Africa,2,2,47,16,23.5,20
+52,Moldova,Eastern Europe,2,2,21,2,10.5,7
+53,Uganda,Africa,2,2,84,17,42.0,8
+54,Kenya,Africa,2,2,33,8,16.5,22
+55,Tunisia,Africa,2,2,158,6,79.0,18
+56,Jordan,Middle East,2,2,18,2,9.0,22
+57,India,Asiatic Region,2,2,245,121,122.5,48
+58,Estonia,Eastern Europe,2,2,171,9,85.5,37
+59,Azerbaijan,Eastern Europe,2,2,3,1,1.5,10
+60,Panama,Latin America,2,2,86,29,43.0,20
+61,Ethiopia,Africa,2,2,14,1,7.0,20
+62,Slovakia,Eastern Europe,2,2,10,3,5.0,21
+63,South Korea,Asiatic Region,2,2,66,0,33.0,33
+64,Ukraine,Eastern Europe,2,2,15,1,7.5,23
+65,Lebanon,Middle East,2,2,39,0,19.5,18
+66,Kyrgyzstan,Asiatic Region,1,1,9,2,9.0,12
+67,Bolivia,Latin America,1,1,126,16,126.0,14
+68,Botswana,Africa,1,1,66,4,66.0,14
+69,Cyprus,Western Europe,1,1,7,0,7.0,24
+70,Algeria,Africa,1,1,1,0,1.0,8
+71,Eritrea,Africa,1,1,0,0,0.0,1
+72,Gabon,Africa,1,1,37,13,37.0,5
+73,Hong Kong,Asiatic Region,1,1,29,0,29.0,31
+74,Hungary,Eastern Europe,1,1,0,0,0.0,35
+75,Indonesia,Asiatic Region,1,1,152,17,152.0,24
+76,Albania,Eastern Europe,1,1,40,1,40.0,13
+77,Kazakhstan,Asiatic Region,1,1,1,1,1.0,15
+78,Malaysia,Asiatic Region,1,1,40,2,40.0,15
+79,Niger,Africa,1,1,1,0,1.0,1
+80,Peru,Latin America,1,1,26,3,26.0,25
+81,Philippines,Asiatic Region,1,1,49,7,49.0,18
+82,Pakistan,Asiatic Region,1,1,10,1,10.0,8
+83,Serbia,Eastern Europe,1,1,1,0,1.0,27
+84,Saudi Arabia,Middle East,1,1,18,1,18.0,19
+85,Syrian Arab Republic,Middle East,1,1,35,2,35.0,9
+86,Chad,Africa,1,1,97,10,97.0,1
+87,Venezuela,Latin America,1,1,0,0,0.0,10
+88,Viet Nam,Asiatic Region,1,1,40,5,40.0,19

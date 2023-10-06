@@ -1,0 +1,89 @@
+Rank,Country,Region,Documents,Citable documents,Citations,Self-citations,Citations per document,H index
+1,United States,Northern America,609,593,24838,11514,40.78,199
+2,United Kingdom,Western Europe,464,440,19409,6072,41.83,186
+3,Germany,Western Europe,218,216,5653,1383,25.93,135
+4,France,Western Europe,191,183,3600,837,18.85,122
+5,Canada,Northern America,101,95,5077,1262,50.27,112
+6,Australia,Pacific Region,86,84,3263,1071,37.94,104
+7,Chile,Latin America,72,72,636,458,8.83,43
+8,Italy,Western Europe,71,71,2079,962,29.28,84
+9,Spain,Western Europe,62,58,1568,615,25.29,94
+10,Israel,Middle East,59,57,2393,501,40.56,79
+11,Sweden,Western Europe,53,52,3332,499,62.87,87
+12,Czech Republic,Eastern Europe,40,33,317,112,7.93,39
+13,South Africa,Africa,38,36,1281,482,33.71,88
+14,Belgium,Western Europe,32,31,455,68,14.22,74
+15,Netherlands,Western Europe,29,29,1311,160,45.21,90
+16,Switzerland,Western Europe,28,27,1050,130,37.5,88
+17,Norway,Western Europe,25,25,3645,776,145.8,92
+18,Russian Federation,Eastern Europe,24,23,3133,814,130.54,70
+19,Denmark,Western Europe,24,24,2857,287,119.04,82
+20,Argentina,Latin America,23,23,296,146,12.87,48
+21,Greece,Western Europe,23,22,522,102,22.7,58
+22,China,Asiatic Region,21,20,1194,823,56.86,94
+23,India,Asiatic Region,20,20,493,165,24.65,44
+24,Austria,Western Europe,19,19,122,30,6.42,50
+25,Croatia,Eastern Europe,16,16,68,32,4.25,19
+26,New Zealand,Pacific Region,16,16,500,142,31.25,65
+27,Ireland,Western Europe,15,14,1074,35,71.6,46
+28,Japan,Asiatic Region,15,15,942,170,62.8,57
+29,Slovenia,Eastern Europe,14,14,86,56,6.14,23
+30,Poland,Eastern Europe,11,11,126,16,11.45,48
+31,Turkey,Middle East,11,11,184,41,16.73,40
+32,Iceland,Western Europe,7,7,2239,153,319.86,43
+33,Ukraine,Eastern Europe,7,7,16,1,2.29,19
+34,Hungary,Eastern Europe,7,7,104,25,14.86,33
+35,Finland,Western Europe,6,6,1769,171,294.83,47
+36,Brazil,Latin America,6,5,90,35,15.0,43
+37,Jordan,Middle East,6,6,127,11,21.17,22
+38,Portugal,Western Europe,4,4,46,12,11.5,47
+39,Mexico,Latin America,4,4,17,3,4.25,41
+40,South Korea,Asiatic Region,4,4,173,13,43.25,28
+41,Romania,Eastern Europe,4,4,45,18,11.25,34
+42,Kenya,Africa,3,2,31,1,10.33,23
+43,Bulgaria,Eastern Europe,3,3,37,4,12.33,23
+44,Palestine,Middle East,3,3,5,1,1.67,3
+45,Ethiopia,Africa,2,2,95,8,47.5,19
+46,Ghana,Africa,2,2,57,9,28.5,9
+47,Hong Kong,Asiatic Region,2,2,31,5,15.5,25
+48,Iran,Middle East,2,2,27,18,13.5,22
+49,Lebanon,Middle East,2,2,10,1,5.0,15
+50,Saudi Arabia,Middle East,2,2,3,0,1.5,20
+51,Viet Nam,Asiatic Region,2,2,73,9,36.5,19
+52,Zimbabwe,Africa,2,2,0,0,0.0,8
+53,Morocco,Africa,1,1,1,0,1.0,21
+54,Monaco,Western Europe,1,1,46,0,46.0,4
+55,Moldova,Eastern Europe,1,1,10,2,10.0,6
+56,Madagascar,Africa,1,0,8,0,8.0,14
+57,Marshall Islands,Pacific Region,1,1,12,0,12.0,1
+58,Mali,Africa,1,1,4,0,4.0,9
+59,Mongolia,Asiatic Region,1,1,4,0,4.0,21
+60,Indonesia,Asiatic Region,1,1,16,6,16.0,23
+61,Malaysia,Asiatic Region,1,0,1,0,1.0,19
+62,Haïti,Latin America,1,1,946,3,946.0,1
+63,Guatemala,Latin America,1,1,17,2,17.0,15
+64,Guadeloupe,Latin America,1,1,20,0,20.0,4
+65,Panama,Latin America,1,1,12,7,12.0,19
+66,Peru,Latin America,1,1,1,1,1.0,26
+67,Philippines,Asiatic Region,1,1,23,1,23.0,21
+68,Pakistan,Asiatic Region,1,1,25,2,25.0,8
+69,Gibraltar,Western Europe,1,0,32,7,32.0,13
+70,Georgia,Eastern Europe,1,1,1,0,1.0,20
+71,Fiji,Pacific Region,1,1,12,3,12.0,9
+72,Armenia,Eastern Europe,1,1,29,6,29.0,16
+73,Serbia,Eastern Europe,1,1,69,18,69.0,25
+74,Estonia,Eastern Europe,1,1,104,7,104.0,26
+75,Bahrain,Middle East,1,1,4,0,4.0,4
+76,Cyprus,Western Europe,1,1,20,0,20.0,26
+77,Singapore,Asiatic Region,1,1,1,1,1.0,31
+78,Cuba,Latin America,1,1,0,0,0.0,12
+79,Slovakia,Eastern Europe,1,1,1,1,1.0,17
+80,Syrian Arab Republic,Middle East,1,1,19,0,19.0,12
+81,Colombia,Latin America,1,1,4,2,4.0,22
+82,Taiwan,Asiatic Region,1,1,59,0,59.0,29
+83,Tanzania,Africa,1,0,25,4,25.0,21
+84,Cameroon,Africa,1,1,2,0,2.0,4
+85,Jamaica,Latin America,1,1,1,0,1.0,6
+86,Iraq,Middle East,1,1,0,0,0.0,7
+87,Bolivia,Latin America,1,1,7,1,7.0,13
+88,Latvia,Eastern Europe,1,1,1196,11,1196.0,12

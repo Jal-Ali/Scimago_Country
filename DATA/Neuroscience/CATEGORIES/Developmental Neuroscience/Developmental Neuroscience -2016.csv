@@ -1,0 +1,89 @@
+Rank,Country,Region,Documents,Citable documents,Citations,Self-citations,Citations per document,H index
+1,United States,Northern America,1318,1152,32349,15717,24.54,303
+2,China,Asiatic Region,310,304,5274,2441,17.01,89
+3,United Kingdom,Western Europe,258,223,8970,1959,34.77,169
+4,Canada,Northern America,230,208,6628,1136,28.82,157
+5,Germany,Western Europe,199,180,6325,1280,31.78,162
+6,Japan,Asiatic Region,193,165,2723,671,14.11,107
+7,Australia,Pacific Region,186,153,4831,1038,25.97,122
+8,Italy,Western Europe,132,119,4991,791,37.81,105
+9,Netherlands,Western Europe,107,98,4644,688,43.4,127
+10,France,Western Europe,102,99,3194,456,31.31,112
+11,India,Asiatic Region,69,52,677,158,9.81,50
+12,Spain,Western Europe,66,56,2924,376,44.3,94
+13,Brazil,Latin America,64,53,1207,235,18.86,64
+14,Belgium,Western Europe,58,50,1786,216,30.79,83
+15,South Korea,Asiatic Region,58,51,719,125,12.4,63
+16,Sweden,Western Europe,57,50,3157,434,55.39,119
+17,Switzerland,Western Europe,52,50,2308,235,44.38,86
+18,Israel,Middle East,41,39,1001,152,24.41,84
+19,Turkey,Middle East,34,33,618,63,18.18,48
+20,Denmark,Western Europe,32,25,886,95,27.69,67
+21,New Zealand,Pacific Region,28,22,685,42,24.46,55
+22,Austria,Western Europe,22,16,631,53,28.68,57
+23,Norway,Western Europe,21,16,772,58,36.76,60
+24,Taiwan,Asiatic Region,21,19,562,39,26.76,57
+25,Ireland,Western Europe,19,16,699,64,36.79,46
+26,Portugal,Western Europe,19,14,713,27,37.53,49
+27,Poland,Eastern Europe,17,16,615,48,36.18,45
+28,Hong Kong,Asiatic Region,16,14,390,58,24.38,52
+29,South Africa,Africa,16,14,282,62,17.63,33
+30,Russian Federation,Eastern Europe,16,15,315,40,19.69,37
+31,Chile,Latin America,15,12,444,28,29.6,36
+32,Mexico,Latin America,15,10,145,32,9.67,41
+33,Argentina,Latin America,12,8,109,41,9.08,40
+34,Saudi Arabia,Middle East,11,10,103,16,9.36,24
+35,Singapore,Asiatic Region,9,8,319,18,35.44,38
+36,Hungary,Eastern Europe,8,7,628,27,78.5,43
+37,Finland,Western Europe,8,7,1072,39,134.0,79
+38,Luxembourg,Western Europe,6,6,148,9,24.67,13
+39,Oman,Middle East,6,1,213,2,35.5,8
+40,Greece,Western Europe,6,6,273,12,45.5,50
+41,Czech Republic,Eastern Europe,6,6,205,13,34.17,29
+42,Iran,Middle East,6,6,93,29,15.5,30
+43,Uruguay,Latin America,5,4,110,18,22.0,17
+44,Iceland,Western Europe,5,5,661,17,132.2,19
+45,Romania,Eastern Europe,4,4,294,19,73.5,22
+46,Ukraine,Eastern Europe,4,4,63,0,15.75,10
+47,Peru,Latin America,4,4,259,10,64.75,9
+48,Malaysia,Asiatic Region,4,4,246,8,61.5,17
+49,Egypt,Africa/Middle East,4,4,82,22,20.5,23
+50,Slovenia,Eastern Europe,4,3,298,9,74.5,27
+51,Slovakia,Eastern Europe,4,3,194,2,48.5,15
+52,Thailand,Asiatic Region,4,4,211,5,52.75,20
+53,Pakistan,Asiatic Region,3,3,41,2,13.67,13
+54,Georgia,Eastern Europe,3,3,233,3,77.67,13
+55,Ethiopia,Africa,3,2,227,5,75.67,7
+56,Serbia,Eastern Europe,3,2,108,5,36.0,18
+57,Colombia,Latin America,3,3,266,6,88.67,22
+58,Croatia,Eastern Europe,3,3,287,7,95.67,19
+59,Jordan,Middle East,2,2,13,1,6.5,11
+60,Bangladesh,Asiatic Region,2,0,18,0,9.0,11
+61,Lebanon,Middle East,2,2,202,3,101.0,16
+62,Lithuania,Eastern Europe,2,2,36,0,18.0,10
+63,Latvia,Eastern Europe,2,2,307,1,153.5,6
+64,Philippines,Asiatic Region,1,1,200,3,200.0,8
+65,Nigeria,Africa,1,1,47,3,47.0,11
+66,Namibia,Africa,1,1,200,1,200.0,1
+67,Puerto Rico,Latin America,1,1,18,0,18.0,14
+68,Malta,Western Europe,1,1,23,4,23.0,5
+69,Qatar,Middle East,1,1,13,0,13.0,13
+70,Macao,Asiatic Region,1,1,1,0,1.0,6
+71,Kuwait,Middle East,1,1,13,0,13.0,14
+72,United Arab Emirates,Middle East,1,1,13,2,13.0,18
+73,Indonesia,Asiatic Region,1,1,52,0,52.0,10
+74,Sudan,Africa,1,1,26,0,26.0,2
+75,Guyana,Latin America,1,1,7,0,7.0,1
+76,Ghana,Africa,1,1,200,4,200.0,5
+77,Estonia,Eastern Europe,1,1,200,5,200.0,17
+78,Algeria,Africa,1,1,5,0,5.0,5
+79,Cyprus,Western Europe,1,1,18,2,18.0,13
+80,Tunisia,Africa,1,1,4,0,4.0,10
+81,Cuba,Latin America,1,1,31,4,31.0,14
+82,Cameroon,Africa,1,1,200,1,200.0,2
+83,Congo,Africa,1,1,9,0,9.0,5
+84,Uganda,Africa,1,1,200,3,200.0,5
+85,Botswana,Africa,1,1,36,3,36.0,5
+86,Bahrain,Middle East,1,1,13,0,13.0,7
+87,Armenia,Eastern Europe,1,1,2,1,2.0,6
+88,Zambia,Africa,1,1,52,1,52.0,3

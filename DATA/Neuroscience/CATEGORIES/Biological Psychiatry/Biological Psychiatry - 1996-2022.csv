@@ -1,0 +1,172 @@
+Rank,Country,Region,Documents,Citable documents,Citations,Self-citations,Citations per document,H index
+1,United States,Northern America,38983,35733,1841949,850344,47.25,409
+2,Germany,Western Europe,12861,12140,475060,104046,36.94,227
+3,United Kingdom,Western Europe,11086,9857,447426,96661,40.36,240
+4,Canada,Northern America,7840,7119,293105,45043,37.39,195
+5,Brazil,Latin America,7810,6988,138680,33041,17.76,125
+6,China,Asiatic Region,6747,6430,130369,45762,19.32,122
+7,Australia,Pacific Region,5621,5011,200106,33784,35.6,175
+8,Italy,Western Europe,5336,4953,180165,35037,33.76,154
+9,Netherlands,Western Europe,5242,4920,224258,32055,42.78,180
+10,Japan,Asiatic Region,4907,4582,120524,22587,24.56,123
+11,France,Western Europe,4587,4282,130610,19387,28.47,139
+12,Spain,Western Europe,3871,3607,120011,20988,31.0,133
+13,Switzerland,Western Europe,3272,3071,128875,14641,39.39,151
+14,South Korea,Asiatic Region,2699,2580,54763,7753,20.29,93
+15,Sweden,Western Europe,2517,2397,91047,10962,36.17,122
+16,Israel,Middle East,2127,2011,76790,8773,36.1,121
+17,Denmark,Western Europe,1740,1592,52231,6320,30.02,103
+18,Belgium,Western Europe,1737,1631,65295,6637,37.59,116
+19,Turkey,Middle East,1653,1569,30109,4708,18.21,73
+20,Austria,Western Europe,1611,1527,56904,5427,35.32,111
+21,Taiwan,Asiatic Region,1529,1383,36945,4595,24.16,79
+22,Iran,Middle East,1522,1422,19314,5736,12.69,62
+23,Poland,Eastern Europe,1255,1197,31482,5148,25.09,78
+24,Norway,Western Europe,1171,1078,35510,4144,30.32,84
+25,India,Asiatic Region,1157,935,29698,5640,25.67,80
+26,Finland,Western Europe,1152,1103,38902,4213,33.77,93
+27,Ireland,Western Europe,1015,944,39426,3528,38.84,91
+28,Russian Federation,Eastern Europe,792,769,13564,1940,17.13,57
+29,Hong Kong,Asiatic Region,750,710,16385,1748,21.85,58
+30,Mexico,Latin America,693,654,15481,2131,22.34,54
+31,Hungary,Eastern Europe,630,603,21451,2515,34.05,71
+32,Greece,Western Europe,609,546,14652,1248,24.06,55
+33,Czech Republic,Eastern Europe,523,505,13470,1477,25.76,57
+34,South Africa,Africa,503,448,16536,1654,32.87,65
+35,Singapore,Asiatic Region,500,455,11914,982,23.83,53
+36,Portugal,Western Europe,497,427,15628,1088,31.44,54
+37,Argentina,Latin America,459,426,12313,1600,26.83,51
+38,New Zealand,Pacific Region,434,396,19061,1211,43.92,61
+39,Chile,Latin America,342,314,9761,823,28.54,48
+40,Croatia,Eastern Europe,300,270,6368,920,21.23,42
+41,Thailand,Asiatic Region,270,233,7246,1078,26.84,42
+42,Estonia,Eastern Europe,194,186,5584,616,28.78,39
+43,Egypt,Africa/Middle East,184,176,4931,423,26.8,35
+44,Colombia,Latin America,175,162,6708,406,38.33,37
+45,Saudi Arabia,Middle East,165,155,3051,436,18.49,29
+46,Malaysia,Asiatic Region,153,138,3409,281,22.28,28
+47,Romania,Eastern Europe,151,142,5241,222,34.71,35
+48,Serbia,Eastern Europe,137,127,2631,349,19.2,30
+49,Pakistan,Asiatic Region,133,98,3631,435,27.3,32
+50,Bulgaria,Eastern Europe,129,124,4924,299,38.17,35
+51,Slovakia,Eastern Europe,116,111,2438,323,21.02,27
+52,Nigeria,Africa,104,77,1982,228,19.06,23
+53,Iceland,Western Europe,103,99,3152,121,30.6,33
+54,Macao,Asiatic Region,94,88,3217,144,34.22,22
+55,Georgia,Eastern Europe,92,80,2468,121,26.83,26
+56,United Arab Emirates,Middle East,82,72,2071,168,25.26,23
+57,Slovenia,Eastern Europe,82,77,2502,178,30.51,25
+58,Ethiopia,Africa,76,69,969,339,12.75,17
+59,Tunisia,Africa,71,64,1413,124,19.9,20
+60,Cyprus,Western Europe,64,62,901,72,14.08,18
+61,Lebanon,Middle East,62,51,2267,221,36.56,21
+62,Luxembourg,Western Europe,61,59,1846,124,30.26,22
+63,Indonesia,Asiatic Region,59,49,854,107,14.47,16
+64,Venezuela,Latin America,55,51,1742,195,31.67,23
+65,Lithuania,Eastern Europe,49,44,1611,76,32.88,15
+66,Uruguay,Latin America,49,46,1060,95,21.63,21
+67,Qatar,Middle East,47,44,785,70,16.7,18
+68,Bangladesh,Asiatic Region,47,21,1173,255,24.96,16
+69,Peru,Latin America,43,32,1677,85,39.0,15
+70,Uganda,Africa,40,32,396,49,9.9,11
+71,Cuba,Latin America,38,33,661,68,17.39,16
+72,Ukraine,Eastern Europe,38,28,542,36,14.26,14
+73,Puerto Rico,Latin America,37,32,3101,70,83.81,14
+74,Philippines,Asiatic Region,37,30,505,58,13.65,11
+75,Bosnia and Herzegovina,Eastern Europe,37,36,608,33,16.43,14
+76,Kenya,Africa,31,25,656,65,21.16,12
+77,Viet Nam,Asiatic Region,29,28,656,38,22.62,12
+78,Costa Rica,Latin America,29,27,840,79,28.97,17
+79,Morocco,Africa,28,26,1216,26,43.43,14
+80,Ecuador,Latin America,25,18,179,15,7.16,5
+81,Jordan,Middle East,25,23,585,60,23.4,12
+82,Iraq,Middle East,24,22,363,36,15.13,9
+83,Latvia,Eastern Europe,21,21,524,42,24.95,12
+84,Nepal,Asiatic Region,20,10,443,11,22.15,8
+85,Kuwait,Middle East,19,17,742,15,39.05,14
+86,Malta,Western Europe,18,18,296,27,16.44,10
+87,Sri Lanka,Asiatic Region,16,10,282,12,17.63,7
+88,Macedonia,Eastern Europe,16,16,558,8,34.88,10
+89,Ghana,Africa,13,10,283,20,21.77,7
+90,Oman,Middle East,13,12,283,16,21.77,8
+91,Tanzania,Africa,12,11,354,14,29.5,10
+92,Armenia,Eastern Europe,12,12,270,21,22.5,8
+93,Monaco,Western Europe,11,11,85,15,7.73,6
+94,Algeria,Africa,11,9,154,5,14.0,6
+95,Panama,Latin America,10,10,204,7,20.4,6
+96,Congo,Africa,10,10,121,4,12.1,4
+97,Zimbabwe,Africa,10,4,97,11,9.7,5
+98,Trinidad and Tobago,Latin America,9,9,230,7,25.56,6
+99,Belarus,Eastern Europe,9,9,328,7,36.44,7
+100,Cameroon,Africa,9,6,112,10,12.44,5
+101,Guatemala,Latin America,8,6,116,5,14.5,6
+102,Moldova,Eastern Europe,7,7,166,1,23.71,4
+103,Netherlands Antilles,Latin America,7,7,249,13,35.57,7
+104,Palestine,Middle East,7,7,122,8,17.43,6
+105,Senegal,Africa,7,7,55,2,7.86,2
+106,Bahrain,Middle East,7,6,69,0,9.86,4
+107,Andorra,Western Europe,6,5,60,2,10.0,5
+108,Azerbaijan,Eastern Europe,6,6,167,4,27.83,4
+109,Palau,Pacific Region,6,5,213,7,35.5,5
+110,Libya,Africa,5,5,86,4,17.2,4
+111,Togo,Africa,5,2,104,2,20.8,5
+112,Montenegro,Eastern Europe,5,5,103,6,20.6,2
+113,Barbados,Latin America,5,4,117,5,23.4,3
+114,Democratic Republic Congo,Africa,5,5,62,11,12.4,2
+115,Rwanda,Africa,5,3,223,14,44.6,4
+116,Faroe Islands,Western Europe,5,5,73,8,14.6,5
+117,Malawi,Africa,5,4,14,1,2.8,2
+118,Paraguay,Latin America,4,3,96,7,24.0,3
+119,Gibraltar,Western Europe,4,4,18,1,4.5,2
+120,Zambia,Africa,4,2,73,4,18.25,4
+121,Albania,Eastern Europe,4,4,35,4,8.75,2
+122,Kazakhstan,Asiatic Region,4,4,36,1,9.0,2
+123,Syrian Arab Republic,Middle East,4,3,177,27,44.25,3
+124,Mozambique,Africa,4,2,31,4,7.75,4
+125,Côte d’Ivoire,Africa,4,4,36,6,9.0,3
+126,Gambia,Africa,3,2,4,0,1.33,2
+127,Sudan,Africa,3,3,17,0,5.67,2
+128,Myanmar,Asiatic Region,3,3,37,1,12.33,3
+129,Madagascar,Africa,3,1,3,0,1.0,1
+130,Bolivia,Latin America,3,2,92,2,30.67,3
+131,Grenada,Latin America,3,3,61,0,20.33,2
+132,Afghanistan,Asiatic Region,3,2,3,1,1.0,1
+133,Haïti,Latin America,3,3,56,2,18.67,3
+134,Belize,Latin America,2,2,1,0,0.5,1
+135,Nicaragua,Latin America,2,2,18,3,9.0,2
+136,Liberia,Africa,2,2,8,1,4.0,2
+137,Laos,Asiatic Region,2,2,14,0,7.0,2
+138,Kyrgyzstan,Asiatic Region,2,2,49,3,24.5,2
+139,Jamaica,Latin America,2,2,44,6,22.0,2
+140,Honduras,Latin America,2,2,49,1,24.5,2
+141,Sierra Leone,Africa,2,2,299,3,149.5,1
+142,Martinique,Latin America,2,2,7,3,3.5,2
+143,Botswana,Africa,2,1,4,0,2.0,1
+144,Brunei Darussalam,Asiatic Region,2,2,2,0,1.0,1
+145,Aruba,Latin America,2,1,17,0,8.5,2
+146,Virgin Islands (U.S.),Latin America,1,1,1,0,1.0,1
+147,Guyana,Latin America,1,1,6,0,6.0,1
+148,Somalia,Africa,1,0,4,1,4.0,1
+149,El Salvador,Latin America,1,1,0,0,0.0,0
+150,Cambodia,Asiatic Region,1,1,13,0,13.0,1
+151,Swaziland,Africa,1,1,59,0,59.0,1
+152,Saint Kitts and Nevis,Latin America,1,1,13,0,13.0,1
+153,Central African Republic,Africa,1,1,1,0,1.0,1
+154,Timor-Leste,Asiatic Region,1,1,15,2,15.0,1
+155,Liechtenstein,Western Europe,1,1,0,0,0.0,0
+156,Tonga,Pacific Region,1,1,0,0,0.0,0
+157,Mongolia,Asiatic Region,1,1,9,0,9.0,1
+158,Antigua and Barbuda,Latin America,1,1,0,0,0.0,0
+159,Niger,Africa,1,1,3,1,3.0,1
+160,Mauritius,Africa,1,1,36,1,36.0,1
+161,Bermuda,Latin America,1,1,23,0,23.0,1
+162,Benin,Africa,1,1,2,2,2.0,1
+163,New Caledonia,Pacific Region,1,1,8,0,8.0,1
+164,Mauritania,Africa,1,0,2,0,2.0,1
+165,Uzbekistan,Asiatic Region,1,1,0,0,0.0,0
+166,Angola,Africa,1,1,3,0,3.0,1
+167,Guinea-Bissau,Africa,1,1,5,0,5.0,1
+168,Falkland Islands (Malvinas),Latin America,1,1,50,0,50.0,1
+169,Dominican Republic,Latin America,1,1,1,0,1.0,1
+170,Dominica,Latin America,1,1,26,0,26.0,1
+171,Curaçao,Latin America,1,1,1,0,1.0,1

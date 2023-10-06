@@ -1,0 +1,90 @@
+Rank,Country,Region,Documents,Citable documents,Citations,Self-citations,Citations per document,H index
+1,United States,Northern America,1702,1623,32966,0,19.37,242
+2,United Kingdom,Western Europe,516,486,11395,0,22.08,160
+3,Australia,Pacific Region,281,196,5417,0,19.28,112
+4,France,Western Europe,244,226,1449,0,5.94,61
+5,Canada,Northern America,196,185,4101,0,20.92,118
+6,Germany,Western Europe,117,114,1422,0,12.15,86
+7,Israel,Middle East,92,90,1442,0,15.67,69
+8,India,Asiatic Region,85,84,247,0,2.91,56
+9,Netherlands,Western Europe,78,75,2190,0,28.08,108
+10,Japan,Asiatic Region,69,67,651,0,9.43,54
+11,Spain,Western Europe,67,63,351,0,5.24,70
+12,Russian Federation,Eastern Europe,53,52,154,0,2.91,37
+13,Hungary,Eastern Europe,47,47,171,0,3.64,31
+14,Italy,Western Europe,40,40,667,0,16.68,64
+15,South Africa,Africa,38,37,257,0,6.76,56
+16,New Zealand,Pacific Region,36,36,1106,0,30.72,62
+17,Poland,Eastern Europe,33,33,269,0,8.15,39
+18,Finland,Western Europe,33,30,190,0,5.76,53
+19,Norway,Western Europe,28,28,531,0,18.96,59
+20,China,Asiatic Region,27,26,408,0,15.11,58
+21,Denmark,Western Europe,25,25,216,0,8.64,61
+22,Ireland,Western Europe,25,23,169,0,6.76,42
+23,Sweden,Western Europe,23,23,753,0,32.74,59
+24,Belgium,Western Europe,22,21,311,0,14.14,61
+25,Hong Kong,Asiatic Region,22,22,899,0,40.86,55
+26,Brazil,Latin America,21,21,261,0,12.43,61
+27,South Korea,Asiatic Region,20,20,247,0,12.35,48
+28,Singapore,Asiatic Region,18,18,1084,0,60.22,55
+29,Turkey,Middle East,15,15,210,0,14.0,49
+30,Mexico,Latin America,14,13,73,0,5.21,43
+31,Slovenia,Eastern Europe,14,14,57,0,4.07,20
+32,Switzerland,Western Europe,13,13,269,0,20.69,55
+33,Taiwan,Asiatic Region,9,9,179,0,19.89,34
+34,Greece,Western Europe,8,8,88,0,11.0,28
+35,Malaysia,Asiatic Region,8,8,111,0,13.88,39
+36,Iran,Middle East,8,7,47,0,5.88,21
+37,Austria,Western Europe,7,7,292,0,41.71,39
+38,Armenia,Eastern Europe,7,6,45,0,6.43,12
+39,Argentina,Latin America,7,7,59,0,8.43,31
+40,Czech Republic,Eastern Europe,6,6,6,0,1.0,26
+41,Estonia,Eastern Europe,6,6,86,0,14.33,37
+42,Lithuania,Eastern Europe,6,6,16,0,2.67,16
+43,Portugal,Western Europe,5,5,2,0,0.4,35
+44,Colombia,Latin America,5,5,3,0,0.6,25
+45,Romania,Eastern Europe,4,4,3,0,0.75,22
+46,Senegal,Africa,4,4,50,0,12.5,10
+47,Slovakia,Eastern Europe,4,4,16,0,4.0,16
+48,Sri Lanka,Asiatic Region,4,4,33,0,8.25,13
+49,Bulgaria,Eastern Europe,3,3,117,0,39.0,19
+50,Iceland,Western Europe,3,3,8,0,2.67,17
+51,Saudi Arabia,Middle East,3,3,15,0,5.0,22
+52,Georgia,Eastern Europe,3,3,6,0,2.0,17
+53,Bangladesh,Asiatic Region,3,3,80,0,26.67,22
+54,Ukraine,Eastern Europe,3,3,3,0,1.0,16
+55,Lebanon,Middle East,3,3,23,0,7.67,23
+56,Jordan,Middle East,2,2,9,0,4.5,16
+57,Cyprus,Western Europe,2,2,98,0,49.0,26
+58,Egypt,Africa/Middle East,2,2,10,0,5.0,22
+59,Croatia,Eastern Europe,2,2,1,0,0.5,19
+60,Kuwait,Middle East,2,2,0,0,0.0,13
+61,Macao,Asiatic Region,2,2,31,0,15.5,20
+62,Nigeria,Africa,2,2,4,0,2.0,26
+63,Philippines,Asiatic Region,2,2,2,0,1.0,24
+64,Thailand,Asiatic Region,2,2,7,0,3.5,29
+65,Uruguay,Latin America,2,2,1,0,0.5,10
+66,Venezuela,Latin America,2,2,6,0,3.0,14
+67,Puerto Rico,Latin America,1,1,3,0,3.0,12
+68,Palestine,Middle East,1,1,1,0,1.0,9
+69,Myanmar,Asiatic Region,1,1,3,0,3.0,7
+70,Liechtenstein,Western Europe,1,1,0,0,0.0,0
+71,Kenya,Africa,1,1,7,0,7.0,29
+72,United Arab Emirates,Middle East,1,1,1,0,1.0,23
+73,Indonesia,Asiatic Region,1,1,16,0,16.0,32
+74,Ghana,Africa,1,1,16,0,16.0,24
+75,Fiji,Pacific Region,1,1,0,0,0.0,13
+76,Cuba,Latin America,1,1,1,0,1.0,8
+77,Cameroon,Africa,1,1,54,0,54.0,18
+78,Syrian Arab Republic,Middle East,1,1,18,0,18.0,5
+79,Zambia,Africa,1,1,7,0,7.0,8
+80,Côte d’Ivoire,Africa,1,1,0,0,0.0,4
+81,Trinidad and Tobago,Latin America,1,1,2,0,2.0,11
+82,Belarus,Eastern Europe,1,1,8,0,8.0,10
+83,Barbados,Latin America,1,0,3,0,3.0,5
+84,Albania,Eastern Europe,1,1,8,0,8.0,6
+85,Afghanistan,Asiatic Region,1,0,18,0,18.0,5
+86,Peru,Latin America,1,1,39,0,39.0,20
+87,Uzbekistan,Asiatic Region,1,1,0,0,0.0,10
+88,Pakistan,Asiatic Region,1,1,6,0,6.0,34
+89,Malta,Western Europe,1,1,56,0,56.0,13

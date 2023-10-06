@@ -1,0 +1,134 @@
+Rank,Country,Region,Documents,Citable documents,Citations,Self-citations,Citations per document,H index
+1,United States,Northern America,2015,1834,14115,6545,7.0,254
+2,United Kingdom,Western Europe,770,699,6062,1631,7.87,165
+3,China,Asiatic Region,401,393,2247,937,5.6,55
+4,Germany,Western Europe,364,302,2292,569,6.3,101
+5,Spain,Western Europe,363,346,1423,447,3.92,67
+6,Italy,Western Europe,344,283,1914,549,5.56,77
+7,Netherlands,Western Europe,325,305,3136,573,9.65,125
+8,Canada,Northern America,325,312,2645,656,8.14,108
+9,Brazil,Latin America,322,308,905,383,2.81,37
+10,Australia,Pacific Region,310,288,2157,590,6.96,96
+11,Poland,Eastern Europe,233,228,612,191,2.63,28
+12,India,Asiatic Region,231,217,1404,612,6.08,38
+13,Russian Federation,Eastern Europe,222,203,614,306,2.77,27
+14,Sweden,Western Europe,161,154,1864,320,11.58,76
+15,France,Western Europe,157,139,604,91,3.85,55
+16,Indonesia,Asiatic Region,150,147,483,232,3.22,25
+17,South Korea,Asiatic Region,144,143,903,166,6.27,60
+18,South Africa,Africa,139,130,590,251,4.24,44
+19,Norway,Western Europe,138,131,947,210,6.86,65
+20,Switzerland,Western Europe,134,109,1197,188,8.93,71
+21,Colombia,Latin America,126,116,429,134,3.4,19
+22,Czech Republic,Eastern Europe,124,106,344,131,2.77,27
+23,Belgium,Western Europe,123,109,1010,124,8.21,70
+24,Denmark,Western Europe,122,117,1099,189,9.01,80
+25,Finland,Western Europe,103,94,698,143,6.78,46
+26,Mexico,Latin America,91,86,383,76,4.21,29
+27,Chile,Latin America,90,90,309,107,3.43,20
+28,Turkey,Middle East,86,74,509,129,5.92,35
+29,Hong Kong,Asiatic Region,83,74,918,156,11.06,66
+30,Portugal,Western Europe,83,77,317,76,3.82,34
+31,Nigeria,Africa,81,74,356,120,4.4,23
+32,Ukraine,Eastern Europe,77,77,356,217,4.62,24
+33,Austria,Western Europe,70,66,880,85,12.57,48
+34,Israel,Middle East,64,63,356,96,5.56,53
+35,Ireland,Western Europe,63,59,288,68,4.57,46
+36,Japan,Asiatic Region,59,49,171,23,2.9,29
+37,Hungary,Eastern Europe,58,56,532,60,9.17,29
+38,Ecuador,Latin America,55,48,255,84,4.64,14
+39,Singapore,Asiatic Region,55,53,798,106,14.51,55
+40,Pakistan,Asiatic Region,53,49,431,133,8.13,26
+41,Slovakia,Eastern Europe,48,47,167,29,3.48,22
+42,New Zealand,Pacific Region,47,44,250,40,5.32,44
+43,Malaysia,Asiatic Region,43,42,428,80,9.95,29
+44,Romania,Eastern Europe,41,40,191,49,4.66,21
+45,Greece,Western Europe,38,34,238,37,6.26,36
+46,Croatia,Eastern Europe,37,36,126,11,3.41,16
+47,Peru,Latin America,36,35,105,27,2.92,14
+48,Slovenia,Eastern Europe,36,36,28,6,0.78,17
+49,Iran,Middle East,36,35,298,59,8.28,17
+50,United Arab Emirates,Middle East,36,35,222,34,6.17,26
+51,Taiwan,Asiatic Region,35,33,166,40,4.74,30
+52,Saudi Arabia,Middle East,33,32,409,88,12.39,22
+53,Thailand,Asiatic Region,29,28,159,31,5.48,28
+54,Estonia,Eastern Europe,28,27,108,20,3.86,24
+55,Jordan,Middle East,28,28,196,59,7.0,17
+56,Ghana,Africa,27,27,188,51,6.96,24
+57,Lithuania,Eastern Europe,25,25,53,17,2.12,16
+58,Bangladesh,Asiatic Region,24,21,140,36,5.83,22
+59,Egypt,Africa/Middle East,23,21,109,13,4.74,15
+60,Philippines,Asiatic Region,22,20,100,15,4.55,18
+61,Argentina,Latin America,22,21,67,14,3.05,19
+62,Serbia,Eastern Europe,20,20,36,17,1.8,11
+63,Macedonia,Eastern Europe,20,19,22,3,1.1,6
+64,Kazakhstan,Asiatic Region,18,18,53,18,2.94,14
+65,Viet Nam,Asiatic Region,18,17,73,26,4.06,22
+66,Kenya,Africa,17,17,95,18,5.59,19
+67,Uganda,Africa,16,13,47,10,2.94,23
+68,Venezuela,Latin America,16,16,80,5,5.0,11
+69,Uruguay,Latin America,14,5,26,3,1.86,10
+70,Tunisia,Africa,14,6,31,2,2.21,10
+71,Bulgaria,Eastern Europe,12,9,19,1,1.58,10
+72,Sri Lanka,Asiatic Region,12,12,213,10,17.75,10
+73,Qatar,Middle East,12,12,131,8,10.92,15
+74,Cyprus,Western Europe,11,11,44,8,4.0,16
+75,Cameroon,Africa,10,10,68,7,6.8,8
+76,Cambodia,Asiatic Region,10,10,45,6,4.5,9
+77,Tanzania,Africa,9,9,31,5,3.44,22
+78,Macao,Asiatic Region,9,6,31,4,3.44,13
+79,Ethiopia,Africa,9,9,36,5,4.0,22
+80,Oman,Middle East,7,7,80,11,11.43,16
+81,Iraq,Middle East,7,7,42,7,6.0,10
+82,Lebanon,Middle East,6,6,20,4,3.33,16
+83,Costa Rica,Latin America,6,5,1,0,0.17,11
+84,Zambia,Africa,6,5,38,2,6.33,17
+85,Armenia,Eastern Europe,6,6,10,1,1.67,5
+86,Afghanistan,Asiatic Region,6,6,24,0,4.0,8
+87,Nepal,Asiatic Region,6,6,32,7,5.33,11
+88,Mozambique,Africa,5,4,58,0,11.6,16
+89,Bosnia and Herzegovina,Eastern Europe,5,5,5,2,1.0,5
+90,Bahrain,Middle East,5,5,6,1,1.2,7
+91,Latvia,Eastern Europe,5,3,5,4,1.0,9
+92,Albania,Eastern Europe,5,5,13,0,2.6,5
+93,Georgia,Eastern Europe,5,5,21,1,4.2,10
+94,Palestine,Middle East,5,5,141,5,28.2,6
+95,Zimbabwe,Africa,5,4,23,6,4.6,10
+96,Iceland,Western Europe,5,5,28,3,5.6,9
+97,Morocco,Africa,4,4,16,2,4.0,7
+98,Trinidad and Tobago,Latin America,4,4,22,2,5.5,7
+99,Yemen,Middle East,4,4,24,4,6.0,4
+100,Cuba,Latin America,4,4,6,1,1.5,4
+101,Malawi,Africa,4,4,30,2,7.5,16
+102,Malta,Western Europe,3,3,19,2,6.33,16
+103,Honduras,Latin America,3,3,27,0,9.0,2
+104,Fiji,Pacific Region,3,3,16,7,5.33,12
+105,Jamaica,Latin America,3,3,5,0,1.67,11
+106,Luxembourg,Western Europe,3,3,2,0,0.67,14
+107,Algeria,Africa,3,3,131,2,43.67,5
+108,Namibia,Africa,3,3,16,2,5.33,4
+109,Papua New Guinea,Pacific Region,3,3,8,0,2.67,3
+110,Democratic Republic Congo,Africa,3,3,9,1,3.0,2
+111,Brunei Darussalam,Asiatic Region,3,3,8,1,2.67,10
+112,Rwanda,Africa,3,3,18,0,6.0,8
+113,Mauritius,Africa,2,2,8,2,4.0,4
+114,Belarus,Eastern Europe,2,2,8,1,4.0,4
+115,Benin,Africa,2,2,2,1,1.0,3
+116,Montenegro,Eastern Europe,2,1,0,0,0.0,4
+117,Azerbaijan,Eastern Europe,2,2,1,1,0.5,4
+118,Kuwait,Middle East,2,2,9,2,4.5,8
+119,Kyrgyzstan,Asiatic Region,2,2,1,0,0.5,2
+120,Tajikistan,Asiatic Region,2,2,2,0,1.0,1
+121,Botswana,Africa,2,2,16,1,8.0,10
+122,Liberia,Africa,1,1,14,2,14.0,3
+123,Guatemala,Latin America,1,1,7,1,7.0,3
+124,Sudan,Africa,1,1,2,0,2.0,10
+125,Guinea-Bissau,Africa,1,1,0,0,0.0,2
+126,Sierra Leone,Africa,1,1,14,5,14.0,3
+127,Paraguay,Latin America,1,1,0,0,0.0,3
+128,Belize,Latin America,1,1,1,0,1.0,1
+129,Angola,Africa,1,1,2,0,2.0,4
+130,Congo,Africa,1,1,14,0,14.0,9
+131,Dominican Republic,Latin America,1,1,0,0,0.0,4
+132,Haïti,Latin America,1,1,2,1,2.0,2
+133,Myanmar,Asiatic Region,1,1,0,0,0.0,2

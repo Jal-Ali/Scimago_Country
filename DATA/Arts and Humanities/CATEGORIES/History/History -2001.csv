@@ -1,0 +1,90 @@
+Rank,Country,Region,Documents,Citable documents,Citations,Self-citations,Citations per document,H index
+1,United States,Northern America,1758,1681,38378,16974,21.83,232
+2,United Kingdom,Western Europe,1212,1039,17384,5871,14.34,170
+3,Australia,Pacific Region,278,208,3461,800,12.45,96
+4,France,Western Europe,243,238,1967,380,8.09,101
+5,Germany,Western Europe,227,222,3727,418,16.42,100
+6,Canada,Northern America,222,205,4380,774,19.73,106
+7,Spain,Western Europe,198,195,1623,706,8.2,83
+8,Israel,Middle East,114,112,1214,346,10.65,78
+9,Netherlands,Western Europe,111,108,2115,312,19.05,97
+10,Italy,Western Europe,107,107,1494,499,13.96,85
+11,South Africa,Africa,73,69,935,404,12.81,76
+12,Belgium,Western Europe,57,56,522,67,9.16,67
+13,India,Asiatic Region,53,53,279,106,5.26,41
+14,Sweden,Western Europe,43,42,604,102,14.05,68
+15,Ireland,Western Europe,38,29,335,28,8.82,47
+16,Russian Federation,Eastern Europe,33,33,363,70,11.0,47
+17,New Zealand,Pacific Region,32,28,288,52,9.0,51
+18,Austria,Western Europe,31,30,342,21,11.03,49
+19,Japan,Asiatic Region,29,29,172,30,5.93,40
+20,Greece,Western Europe,27,26,645,92,23.89,58
+21,Norway,Western Europe,27,27,396,78,14.67,61
+22,Switzerland,Western Europe,26,23,236,22,9.08,56
+23,Denmark,Western Europe,24,24,443,81,18.46,54
+24,Hong Kong,Asiatic Region,20,20,599,29,29.95,42
+25,Finland,Western Europe,19,19,427,95,22.47,53
+26,Singapore,Asiatic Region,19,18,176,35,9.26,42
+27,Turkey,Middle East,17,16,527,136,31.0,50
+28,Argentina,Latin America,15,15,233,58,15.53,40
+29,Brazil,Latin America,12,10,197,33,16.42,39
+30,Mexico,Latin America,11,10,310,65,28.18,34
+31,China,Asiatic Region,10,9,283,124,28.3,55
+32,Poland,Eastern Europe,10,9,122,15,12.2,35
+33,Hungary,Eastern Europe,10,10,58,8,5.8,29
+34,Portugal,Western Europe,9,9,47,8,5.22,48
+35,Chile,Latin America,9,9,11,7,1.22,32
+36,Slovenia,Eastern Europe,8,8,5,3,0.63,22
+37,Malaysia,Asiatic Region,8,7,156,28,19.5,28
+38,South Korea,Asiatic Region,7,6,24,5,3.43,29
+39,Lithuania,Eastern Europe,7,7,0,0,0.0,17
+40,Bulgaria,Eastern Europe,7,7,122,17,17.43,20
+41,Egypt,Africa/Middle East,6,6,63,7,10.5,23
+42,Czech Republic,Eastern Europe,6,6,102,3,17.0,33
+43,Indonesia,Asiatic Region,5,5,40,10,8.0,25
+44,Iran,Middle East,4,3,31,8,7.75,23
+45,Taiwan,Asiatic Region,4,4,64,18,16.0,26
+46,Peru,Latin America,4,4,10,2,2.5,23
+47,Estonia,Eastern Europe,3,3,2,1,0.67,22
+48,Armenia,Eastern Europe,3,3,3,0,1.0,14
+49,Bangladesh,Asiatic Region,3,3,13,3,4.33,11
+50,Cyprus,Western Europe,3,3,48,8,16.0,26
+51,United Arab Emirates,Middle East,3,3,16,9,5.33,19
+52,Iceland,Western Europe,3,3,42,14,14.0,23
+53,Jamaica,Latin America,3,3,26,3,8.67,8
+54,Lebanon,Middle East,3,3,27,5,9.0,20
+55,Romania,Eastern Europe,3,3,0,0,0.0,27
+56,Thailand,Asiatic Region,3,3,43,9,14.33,22
+57,Zimbabwe,Africa,3,3,7,0,2.33,11
+58,Ukraine,Eastern Europe,2,2,1,1,0.5,21
+59,Morocco,Africa,2,2,16,4,8.0,14
+60,Nigeria,Africa,2,2,11,4,5.5,17
+61,Ethiopia,Africa,2,2,9,1,4.5,14
+62,Colombia,Latin America,2,2,38,4,19.0,21
+63,Philippines,Asiatic Region,2,2,23,9,11.5,20
+64,Macedonia,Eastern Europe,2,2,1,1,0.5,9
+65,Croatia,Eastern Europe,1,1,4,3,4.0,19
+66,Ghana,Africa,1,1,6,1,6.0,16
+67,Viet Nam,Asiatic Region,1,1,1,0,1.0,21
+68,Serbia,Eastern Europe,1,1,0,0,0.0,19
+69,Georgia,Eastern Europe,1,1,24,0,24.0,15
+70,Sudan,Africa,1,1,0,0,0.0,5
+71,Moldova,Eastern Europe,1,1,0,0,0.0,7
+72,Slovakia,Eastern Europe,1,1,17,0,17.0,24
+73,Sierra Leone,Africa,1,1,4,0,4.0,4
+74,Swaziland,Africa,1,1,2,1,2.0,5
+75,Azerbaijan,Eastern Europe,1,1,0,0,0.0,8
+76,Cameroon,Africa,1,1,9,4,9.0,9
+77,Brunei Darussalam,Asiatic Region,1,1,2,0,2.0,7
+78,Bosnia and Herzegovina,Eastern Europe,1,1,48,5,48.0,10
+79,Uruguay,Latin America,1,1,1,1,1.0,15
+80,Venezuela,Latin America,1,1,2,0,2.0,13
+81,Martinique,Latin America,1,1,5,0,5.0,4
+82,Malta,Western Europe,1,1,8,2,8.0,10
+83,Fiji,Pacific Region,1,1,63,12,63.0,9
+84,Namibia,Africa,1,1,2,0,2.0,8
+85,Niger,Africa,1,1,0,0,0.0,2
+86,Luxembourg,Western Europe,1,1,0,0,0.0,12
+87,Kuwait,Middle East,1,1,6,2,6.0,11
+88,Kenya,Africa,1,1,10,2,10.0,18
+89,Pakistan,Asiatic Region,1,1,1,0,1.0,16
